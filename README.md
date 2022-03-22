@@ -9,12 +9,25 @@ This quarter the seminar is about *obliviously accessing data*. We'll take a
 broad look at research on how to efficiently access data at untrusted server
 while preserving as much privacy as possible. 
 
-Two topics of initial focus will be *private information retrieval (PIR)*
-and *oblivious RAM (ORAM)*. I will give some background lectures on both
-of these topics, starting with some older papers. Then we'll move on to more
-recent papers together, in search of open problems.
+Two topics of initial focus will be *private information retrieval (PIR)* and
+*oblivious RAM (ORAM)*. I will give some background lectures on both of these
+topics, starting with some older papers. Then we'll move on to more recent
+papers together, in search of open problems. We can investigate both applied
+and theoretical directions, depending on the group's interests.
 
-**Course logistics**:
+**Logistics**: Meetings are Mon-Weds at 1:30-2:50pm in Ryerson 277 (this
+location may change to a conference room after the first meeting). 
+
+This GitHub repo will serve as our course website.
+
+This course will not count as an elective. If you need elective credit, please
+speak with me.
+
+**Expected participation**: There are two main expectations. First,
+participants in the seminar should attend all 18 meetings, attempt associated
+readings beforehand, and be generally prepared with questions.  Second,
+participants will be asked to do a close read on one topic and lead (or
+co-lead) at least one meeting on that topic.
 
 ## Topics [tentative, to be updated]
 
