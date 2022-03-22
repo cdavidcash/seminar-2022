@@ -73,13 +73,14 @@ R. Ostrovsky, W. E. Skeith III. PKC 2007.
 
 ### Misc. PIR
 
-
-
-
 - [Towards Doubly Efficient Private Information
-  Retrieval](https://eprint.iacr.org/2017/568).  R. Canetti, J.
-  Holmgren, S. Richelson. TCC 2007.
+  Retrieval](https://eprint.iacr.org/2017/568).  R. Canetti, J.  Holmgren, S.
+  Richelson. TCC 2017.
 
+- [Can We Access a Database Both Locally and
+  Privately?](https://eprint.iacr.org/2017/567). E. Boyle, Y. Ishai, R. Pass,
+  M. Wootters.  TCC 2017.
+ 
 ### ORAM - Classic Papers [todo]
 
 - GO
@@ -89,6 +90,9 @@ R. Ostrovsky, W. E. Skeith III. PKC 2007.
   Protocol](https://eprint.iacr.org/2013/280.pdf).  E. Stefanov, M.  van Dijk,
   E. Shi, T-H. H. Chan, C. Fletcher, L. Ren, X. Yu, S. Devadas. CCS 2013/JACM
   2018.
+
+
+  
 
 - Panorama
 
