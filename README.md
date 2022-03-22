@@ -27,9 +27,9 @@ and theoretical directions, depending on the group's interests.
 
 **Expected participation**: There are two main expectations. First,
 participants in the seminar should attend all 18 meetings, attempt associated
-readings beforehand, and be generally prepared with questions.  Second,
-participants will be asked to do a close read on one topic and lead (or
-co-lead) at least one meeting on that topic.
+readings beforehand, and be generally prepared to follow the technical content
+with questions.  Second, participants will be asked to do a close read on one
+topic and lead (or co-lead) at least one meeting on that topic.
 
 ## Topics [tentative, to be updated]
 
@@ -42,8 +42,6 @@ co-lead) at least one meeting on that topic.
 - [Batch Codes and Their
   Applications](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf).  Y. Ishai, E.
   Kushilevitz, R. Ostrovsky, A. Sahai, STOC 2004.
-
-- [Replication is not needed: single database, computationally-private information retrieval](
 
 - [A Survey of Single-Database Private Information Retrieval: Techniques and Applications](https://eprint.iacr.org/2007/059.pdf). 
 R. Ostrovsky, W. E. Skeith III, PKC 2007.
