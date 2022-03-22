@@ -2,9 +2,21 @@
 # Crypto Seminar, Winter 2022 
 
 This course is officially "CMSC 33251-1: Topics in Computer Security". It is
-a PhD-level seminar
+a PhD-level seminar aimed at covering a few research topics in preparation for
+dong research in those areas.
 
-## Topics
+This quarter the seminar is about *obliviously accessing data*. We'll take a
+broad look at research on how to efficiently access data at untrusted server
+while preserving as much privacy as possible. 
+
+Two topics of initial focus will be *private information retrieval (PIR)*
+and *oblivious RAM (ORAM)*. I will give some background lectures on both
+of these topics, starting with some older papers. Then we'll move on to more
+recent papers together, in search of open problems.
+
+**Course logistics**:
+
+## Topics [tentative, to be updated]
 
 ### PIR - Classic Papers
 
