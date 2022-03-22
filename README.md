@@ -15,13 +15,15 @@ topics, starting with some older papers. Then we'll move on to more recent
 papers together, in search of open problems. We can investigate both applied
 and theoretical directions, depending on the group's interests.
 
-**Logistics**: Meetings are Mon-Weds at 1:30-2:50pm in Ryerson 277 (this
-location may change to a conference room after the first meeting). 
+**Logistics**: 
 
-This GitHub repo will serve as our course website.
+- Meetings are Mon-Weds at 1:30-2:50pm in Ryerson 277 (this location may change
+  to a conference room after the first meeting). 
 
-This course will not count as an elective. If you need elective credit, please
-speak with me.
+- This GitHub repo will serve as our course website.
+
+- This course will not count as an elective. If you need elective credit,
+  please speak with me.
 
 **Expected participation**: There are two main expectations. First,
 participants in the seminar should attend all 18 meetings, attempt associated
