@@ -57,11 +57,16 @@ R. Ostrovsky, W. E. Skeith III. PKC 2007.
   CCS 2016.
 
 
-### Offline/Online PIR
+### Offline/Online PIR and PIR-with-Preprocessing
+
+- [Reducing the Servers’ Computation in Private Information
+Retrieval: PIR with Preprocessing](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf). A. Beimel, Y. Ishai, T. Malkin. CRYPTO 2000.
 
 - [Private Information Retrieval with Sublinear Online
   Time](https://eprint.iacr.org/2019/1075.pdf). H. Corrigan-Gibbs, D. Kogan.
   EUROCRYPT 2020.
+
+- [Limits of Preprocessing for Single-Server PIR](https://eprint.iacr.org/2022/235). G. Persiano, K. Yeo. SODA 2022.
 
 - [Puncturable Pseudorandom Sets and Private Information Retrieval with
   Near-Optimal Online Bandwidth and Time](https://eprint.iacr.org/2020/1592).
