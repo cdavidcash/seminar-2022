@@ -1,13 +1,25 @@
 
-# Crypto Seminar, Winter 2022 (CMSC 33251-1: Topics in Computer Security)
+# Crypto Seminar, Winter 2022 
+
+This course is officially "CMSC 33251-1: Topics in Computer Security". It is
+a PhD-level seminar
 
 ## Topics
 
-### PIR
+### PIR - Classic Papers
 
 - [Private Information
   Retrieval](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf). B.
   Chor, O. Goldreich, E. Kushilevitz, M. Sudan, JACM 1999.
+
+- [Batch Codes and Their
+  Applications](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf).  Y. Ishai, E.
+  Kushilevitz, R. Ostrovsky, A. Sahai, STOC 2004.
+
+- [A Survey of Single-Database Private Information Retrieval: Techniques and Applications](https://eprint.iacr.org/2007/059.pdf). 
+R. Ostrovsky, W. E. Skeith III, PKC 2007.
+
+### Function Secret Sharing
 
 - [Function Secret
   Sharing](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_12). E.
@@ -17,10 +29,12 @@
   Extensions](https://eprint.iacr.org/2018/707). E. Boyle, N. Gilboa, Y. Ishai,
   CCS 2016.
 
+
+### Offline/Online PIR
+
 - [Private Information Retrieval with Sublinear Online
   Time](https://eprint.iacr.org/2019/1075.pdf). H. Corrigan-Gibbs, D. Kogan,
   EUROCRYPT 2020.
-
 
 - [Puncturable Pseudorandom Sets and Private Information Retrieval with
   Near-Optimal Online Bandwidth and Time](https://eprint.iacr.org/2020/1592).
@@ -30,4 +44,14 @@
   Time](https://eprint.iacr.org/2022/081). H. Corrigan-Gibbs and A.
   Henzinger and D. Kogan. EUROCRYPT 2022.
 
-### ORAM
+### ORAM - Classic Papers [todo]
+
+- GO
+
+- Path ORAM
+
+- Panorama
+
+- OPRAM
+
+
