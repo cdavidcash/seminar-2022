@@ -37,11 +37,13 @@ co-lead) at least one meeting on that topic.
 
 - [Private Information
   Retrieval](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf). B.
-  Chor, O. Goldreich, E. Kushilevitz, M. Sudan, JACM 1999.
+  Chor, O. Goldreich, E. Kushilevitz, M. Sudan, FOCS 1995/JACM 1999.
 
 - [Batch Codes and Their
   Applications](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf).  Y. Ishai, E.
   Kushilevitz, R. Ostrovsky, A. Sahai, STOC 2004.
+
+- [Replication is not needed: single database, computationally-private information retrieval](
 
 - [A Survey of Single-Database Private Information Retrieval: Techniques and Applications](https://eprint.iacr.org/2007/059.pdf). 
 R. Ostrovsky, W. E. Skeith III, PKC 2007.
@@ -75,7 +77,11 @@ R. Ostrovsky, W. E. Skeith III, PKC 2007.
 
 - GO
 
-- Path ORAM
+
+- [Path ORAM: An Extremely Simple Oblivious RAM
+  Protocol](https://eprint.iacr.org/2013/280.pdf).  E. Stefanov, M.
+  van Dijk, E. Shi, T-H. H. Chan, C. Fletcher, 
+  L. Ren, X. Yu, S. Devadas. CCS 2013/JACM 2018.
 
 - Panorama
 
