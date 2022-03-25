@@ -36,11 +36,17 @@ topic and lead (or co-lead) at least one meeting on that topic.
 | Meeting | Date | Topic | Paper(s) | Lead by |
 | --- | --- | --- | --- | --- |
 | Mon. Week 1 | Mar 28 | Intro to PIR | [Chor et al.](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
+| Wed. Week 1 | Mar 30 | Batch Codes and PIR | [Ishai et al.](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf) | David |
+| Mon. Week 2 | Apr 4 | PIR with Preprocessing | [Beimel et al.](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
+| Wed. Week 2 | Apr 6 | PIR with Preprocessing | [Beimel et al.](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
+
 
 
 ## Potential Papers to be Covered [updated]
 
-### PIR - Classic Papers
+### Private Information Retrieval (PIR)
+
+#### PIR - Classic Papers
 
 - [Private Information
   Retrieval](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf). B.
@@ -53,7 +59,7 @@ topic and lead (or co-lead) at least one meeting on that topic.
 - [A Survey of Single-Database Private Information Retrieval: Techniques and Applications](https://eprint.iacr.org/2007/059.pdf). 
 R. Ostrovsky, W. E. Skeith III. PKC 2007.
 
-### Function Secret Sharing
+#### Function Secret Sharing
 
 - [Function Secret
   Sharing](https://link.springer.com/chapter/10.1007/978-3-662-46803-6_12). E.
@@ -64,7 +70,7 @@ R. Ostrovsky, W. E. Skeith III. PKC 2007.
   CCS 2016.
 
 
-### Offline/Online PIR and PIR-with-Preprocessing
+#### Offline/Online PIR and PIR-with-Preprocessing
 
 - [Reducing the Servers’ Computation in Private Information
 Retrieval: PIR with Preprocessing](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf). A. Beimel, Y. Ishai, T. Malkin. CRYPTO 2000.
