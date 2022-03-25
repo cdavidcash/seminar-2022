@@ -31,7 +31,13 @@ readings beforehand, and be generally prepared to follow the technical content
 with questions.  Second, participants will be asked to do a close read on one
 topic and lead (or co-lead) at least one meeting on that topic.
 
-## Topics [tentative, to be updated]
+## Meeting Schedule
+
+| Meeting | Date | Paper(s) |
+| --- | --- | --- |
+
+
+## Potential Papers to be Covered [updated]
 
 ### PIR - Classic Papers
 
