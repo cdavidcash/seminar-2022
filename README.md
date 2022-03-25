@@ -35,10 +35,10 @@ topic and lead (or co-lead) at least one meeting on that topic.
 
 | Meeting | Date | Topic | Paper(s) | Lead by |
 | --- | --- | --- | --- | --- |
-| Mon. Week 1 | Mar 28 | Intro to PIR | [Chor et al.](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
-| Wed. Week 1 | Mar 30 | Batch Codes and PIR | [Ishai et al.](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf) | David |
-| Mon. Week 2 | Apr 4 | PIR with Preprocessing | [Beimel et al.](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
-| Wed. Week 2 | Apr 6 | Offline/Online PIR | [Corrigan-Gibbs and Kogan](https://eprint.iacr.org/2019/1075.pdf) | David |
+| Mon. Week 1 | Mar 28 | Intro to PIR | [Chor et al., FOCS'95](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
+| Wed. Week 1 | Mar 30 | Batch Codes and PIR | [Ishai et al., STOC'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf) | David |
+| Mon. Week 2 | Apr 4 | PIR with Preprocessing | [Beimel et al., CRYPTO'00](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
+| Wed. Week 2 | Apr 6 | Offline/Online PIR | [Corrigan-Gibbs and Kogan,EUROCRYPT'20](https://eprint.iacr.org/2019/1075.pdf) | David |
 
 
 
