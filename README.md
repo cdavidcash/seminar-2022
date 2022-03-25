@@ -33,9 +33,9 @@ topic and lead (or co-lead) at least one meeting on that topic.
 
 ## Meeting Schedule
 
-| Meeting | Date | Paper(s) |
-| --- | --- | --- |
-| Monday Week 1 | Mar 28 | [Chor et al.](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) |
+| Meeting | Date | Topic | Paper(s) | Lead by |
+| --- | --- | --- | --- | --- |
+| Mon. Week 1 | Mar 28 | Intro to PIR | [Chor et al.](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
 
 
 ## Potential Papers to be Covered [updated]
