@@ -36,9 +36,10 @@ topic and lead (or co-lead) at least one meeting on that topic.
 | Meeting | Date | Topic | Paper(s) | Lead by |
 | --- | --- | --- | --- | --- |
 | **M** (Wk 1) | Mar 28 | Intro to PIR Pt 1 | [CGKS'95](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
-| **W** (Wk 1) | Mar 30 | Intro to PIR Pt 2 | [BI'01](https://www.cs.bgu.ac.il/~beimel/Papers/BI.pdf), [BIM'00](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
+| **W** (Wk 1) | Mar 30 | Intro to PIR Pt 2 | [Ambainis'97](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=04CBB5535797D855D0FAE7C8D686DB6B?doi=10.1.1.21.4449&rep=rep1&type=pdf), [BI'01](https://www.cs.bgu.ac.il/~beimel/Papers/BI.pdf), [BIM'00](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
 | **M** (Wk 2) | Apr 4 | Batch Codes and PIR | [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf) | David |
-| **W** (Wk 2) | Apr 6 | Offline/Online PIR | [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081)| David |
+| **W** (Wk 2) | Apr 6 | PIR and LDCs | [BIKR'02](https://www.cs.bgu.ac.il/~beimel/Papers/BIKRJournal.pdf) | David |
+| **M** (Wk 3) | Apr 11 | Offline/Online PIR [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081)| David |
 
 
 
@@ -46,22 +47,30 @@ topic and lead (or co-lead) at least one meeting on that topic.
 
 ### Private Information Retrieval (PIR)
 
-#### PIR - Classic Papers
+#### Information-Theoretic PIR - Classic Papers
 
 - [Private Information
   Retrieval](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf). B.
   Chor, O. Goldreich, E. Kushilevitz, M. Sudan. FOCS 1995/JACM 1999.
 
+- [Upper bound on the communication complexity of private information
+  retrieval](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=04CBB5535797D855D0FAE7C8D686DB6B?doi=10.1.1.21.4449&rep=rep1&type=pdf). A. Ambainis, ICALP 1997.
+
 - [Information-Theoretic Private Information Retrieval: A Unified
   Construction](https://www.cs.bgu.ac.il/~beimel/Papers/BI.pdf). A. Beimel, .Y
-  Ishai.
+  Ishai. ICALP 2001.
+
+- [Breaking the O(n1/(2k-1)) Barrier for Information-Theoretic Private
+  Information
+  Retrieval](https://www.cs.bgu.ac.il/~beimel/Papers/BIKRJournal.pdf). Beimel†
+  Y. Ishai, E. Kushilevitz, J. Raymond. FOCS 2002.
 
 - [Batch Codes and Their
   Applications](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf).  Y. Ishai, E.
   Kushilevitz, R. Ostrovsky, A. Sahai. STOC 2004.
 
-- [A Survey of Single-Database Private Information Retrieval: Techniques and Applications](https://eprint.iacr.org/2007/059.pdf). 
-R. Ostrovsky, W. E. Skeith III. PKC 2007.
+- 
+
 
 #### Function Secret Sharing
 
@@ -93,7 +102,11 @@ Retrieval: PIR with Preprocessing](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.p
   Time](https://eprint.iacr.org/2022/081). H. Corrigan-Gibbs and A.
   Henzinger and D. Kogan. EUROCRYPT 2022.
 
-### Misc. PIR
+### Single-Server PIR
+
+- [A Survey of Single-Database Private Information Retrieval: Techniques and
+  Applications](https://eprint.iacr.org/2007/059.pdf).  R. Ostrovsky, W. E.
+  Skeith III. PKC 2007.
 
 - [Towards Doubly Efficient Private Information
   Retrieval](https://eprint.iacr.org/2017/568).  R. Canetti, J.  Holmgren, S.
