@@ -69,7 +69,13 @@ topic and lead (or co-lead) at least one meeting on that topic.
   Applications](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf).  Y. Ishai, E.
   Kushilevitz, R. Ostrovsky, A. Sahai. STOC 2004.
 
-- 
+- [New Locally Decodable Codes and Private Information Retrieval
+  Schemes](http://nebula.wsimg.com/79101d4ec19323371d61aa5d32488ff9?AccessKeyId=0EF19C92671ED94CE585&disposition=0&alloworigin=1).
+  S. Yekhanin, STOC 2007.
+
+- [3-Query Locally Decodable Codes of Subexponential Length](https://www.cs.bgu.ac.il/~klim/papers/LDC_new.pdf). K. Efremenko. STOC 2009.
+
+- [2-Server PIR with sub-polynomial communication](https://arxiv.org/pdf/1407.6692.pdf). Z. Dvir, S. Gopi. STOC 2015.
 
 
 #### Function Secret Sharing
@@ -116,18 +122,15 @@ Retrieval: PIR with Preprocessing](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.p
   Privately?](https://eprint.iacr.org/2017/567). E. Boyle, Y. Ishai, R. Pass,
   M. Wootters.  TCC 2017.
  
-### ORAM - Classic Papers [todo]
+### ORAM - Classic Papers [to be extended]
 
 - GO
-
 
 - [Path ORAM: An Extremely Simple Oblivious RAM
   Protocol](https://eprint.iacr.org/2013/280.pdf).  E. Stefanov, M.  van Dijk,
   E. Shi, T-H. H. Chan, C. Fletcher, L. Ren, X. Yu, S. Devadas. CCS 2013/JACM
   2018.
 
-
-  
 
 - Panorama
 
