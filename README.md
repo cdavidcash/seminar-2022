@@ -124,16 +124,30 @@ Retrieval: PIR with Preprocessing](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.p
  
 ### ORAM - Classic Papers [to be extended]
 
-- GO
+- [Software Protection and Simulation on Oblivious RAMs](http://class.ece.iastate.edu/tyagi/cpre681/papers/p431-goldreich.pdf). O. Goldreich, R. Ostrovsky. JACM 1996.
 
 - [Path ORAM: An Extremely Simple Oblivious RAM
   Protocol](https://eprint.iacr.org/2013/280.pdf).  E. Stefanov, M.  van Dijk,
   E. Shi, T-H. H. Chan, C. Fletcher, L. Ren, X. Yu, S. Devadas. CCS 2013/JACM
   2018.
 
+- [PanORAMa: Oblivious RAM with Logarithmic Overhead](https://eprint.iacr.org/2018/373.pdf). S. Patel, G. Persiano, M. Raykova, K.
+  Yeo.
 
-- Panorama
+- [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). G. Asharov, I. Komargodski, W.-K. Lin, K. Nayak, E. Peserico, E. Shi.
 
-- OPRAM
 
+### ORAM - Lower Bounds [to be extended]
+
+- [Is There an Oblivious RAM Lower
+  Bound?](https://www.wisdom.weizmann.ac.il/~naor/PAPERS/oram_lower.pdf). E.
+  Boyle, M.  Noar. ITCS 2016.
+
+- [Yes, There is an Oblivious RAM Lower
+  Bound!](https://eprint.iacr.org/2018/423). K. G. Larsen, J. B. Nielsen. CRYPTO
+  2018.
+
+- [A Lower Bound for One-Round Oblivious
+  RAM](https://eprint.iacr.org/2020/1195.pdf). D. Cash, A. Drucker, A. Hoover.
+  TCC 2020.
 
