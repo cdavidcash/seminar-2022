@@ -37,8 +37,10 @@ topic and lead (or co-lead) at least one meeting on that topic.
 | --- | --- | --- | --- | --- |
 | **M** (Wk 1) | Mar 28 | Intro to PIR Pt 1 | [CGKS'95](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf) | David |
 | **W** (Wk 1) | Mar 30 | Intro to PIR Pt 2 | [Ambainis'97](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=04CBB5535797D855D0FAE7C8D686DB6B?doi=10.1.1.21.4449&rep=rep1&type=pdf), [BI'01](https://www.cs.bgu.ac.il/~beimel/Papers/BI.pdf), [BIM'00](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
+
 | **M** (Wk 2) | Apr 4 | Batch Codes and PIR | [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf) | David |
 | **W** (Wk 2) | Apr 6 | PIR and LDCs | [BIKR'02](https://www.cs.bgu.ac.il/~beimel/Papers/BIKRJournal.pdf) | David |
+
 | **M** (Wk 3) | Apr 11 | Offline/Online PIR | [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081)| David |
 
 
