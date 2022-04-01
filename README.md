@@ -42,7 +42,7 @@ topic and lead (or co-lead) at least one meeting on that topic.
 
 
 
-## Potential Papers to be Covered [updated]
+## Potential Papers to be Covered 
 
 ### Private Information Retrieval (PIR)
 
