@@ -40,7 +40,7 @@ topic and lead (or co-lead) at least one meeting on that topic.
 | **M** (Wk 2) | Apr 4 | Batch/Offline-Online PIR Pt 1 | [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf), [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081), [SACM'22](https://eprint.iacr.org/2020/1592) | David |
 | **W** (Wk 2) | Apr 6 | Batch/Offline-Online PIR Pt 2 |  [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf), [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081), [SACM'22](https://eprint.iacr.org/2020/1592) | David |
 | **M** (Wk 3) | Apr 11 | Intro to ORAM Pt 1 |  [GO'96](http://class.ece.iastate.edu/tyagi/cpre681/papers/p431-goldreich.pdf),  [CGLS'17](https://eprint.iacr.org/2017/924), [GGHJRW'13](https://eprint.iacr.org/2013/239) | David |
-
+| **W** (Wk 3) | Apr 13 | Intro to ORAM Pt 2 |  [CGLS'17](https://eprint.iacr.org/2017/924),  [AKLNPS](https://eprint.iacr.org/2018/892) | David |
 
 ## Potential Papers to be Covered 
 
@@ -139,9 +139,9 @@ Y. Guo, W.-K. Lin, E. Shi. ASIACRYPT 2017.
   2018.
 
 - [PanORAMa: Oblivious RAM with Logarithmic Overhead](https://eprint.iacr.org/2018/373.pdf). S. Patel, G. Persiano, M. Raykova, K.
-  Yeo.
+  Yeo. FOCS 2018.
 
-- [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). G. Asharov, I. Komargodski, W.-K. Lin, K. Nayak, E. Peserico, E. Shi.
+- [OptORAMa: Optimal Oblivious RAM](https://eprint.iacr.org/2018/892). G. Asharov, I. Komargodski, W.-K. Lin, K. Nayak, E. Peserico, E. Shi. EUROCRYPT 2020.
 
 
 ### ORAM - Lower Bounds [to be extended]
