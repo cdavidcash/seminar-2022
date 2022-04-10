@@ -39,8 +39,8 @@ topic and lead (or co-lead) at least one meeting on that topic.
 | **W** (Wk 1) | Mar 30 | Intro to PIR Pt 2 | [Ambainis'97](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=04CBB5535797D855D0FAE7C8D686DB6B?doi=10.1.1.21.4449&rep=rep1&type=pdf), [BI'01](https://www.cs.bgu.ac.il/~beimel/Papers/BI.pdf), [BIM'00](https://www.cs.bgu.ac.il/~beimel/Papers/BIM.pdf) | David |
 | **M** (Wk 2) | Apr 4 | Batch/Offline-Online PIR Pt 1 | [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf), [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081), [SACM'22](https://eprint.iacr.org/2020/1592) | David |
 | **W** (Wk 2) | Apr 6 | Batch/Offline-Online PIR Pt 2 |  [IKOS'04](http://web.cs.ucla.edu/~rafail/PUBLIC/62.pdf), [CK'20](https://eprint.iacr.org/2019/1075.pdf), [CHK'22](https://eprint.iacr.org/2022/081), [SACM'22](https://eprint.iacr.org/2020/1592) | David |
-| **M** (Wk 3) | Apr 11 | Intro to ORAM Pt 1 |  [GO'96](http://class.ece.iastate.edu/tyagi/cpre681/papers/p431-goldreich.pdf),  [CGLS'17](https://eprint.iacr.org/2017/924), [GGHJRW'13](https://eprint.iacr.org/2013/239) | David |
-| **W** (Wk 3) | Apr 13 | Intro to ORAM Pt 2 |  [CGLS'17](https://eprint.iacr.org/2017/924),  [AKLNPS](https://eprint.iacr.org/2018/892) | David |
+| **M** (Wk 3) | Apr 11 | Intro to ORAM Pt 1 |  [GO'96](http://class.ece.iastate.edu/tyagi/cpre681/papers/p431-goldreich.pdf),  [GGHJRW'13](https://eprint.iacr.org/2013/239) | David |
+| **W** (Wk 3) | Apr 13 | Intro to ORAM Pt 2 |  [CGLS'17](https://eprint.iacr.org/2017/924),  [PGRY'18](https://eprint.iacr.org/2018/373.pdf) | David |
 
 ## Potential Papers to be Covered 
 
